@@ -1,5 +1,5 @@
 # Jhuliana_Brito
-Estudante de **Engenharia de Software no IDP (Brasília)**, atualmente no 1º semestre, buscando desenvolver minhas habilidades na computação.
+Estudante de **Engenharia de Software no IDP (Brasília)**, atualmente no 1º semestre.
 
 # Meu nome é Maria Jhuliana! 👋
 Sou estudante de Engenharia de Software no Instituto de Desenvolvimento e Pesquisa (IDP) e tenho interesse em trabalhar na área de dados. Nos últimos meses trabalhei nas áreas matemáticas e projetos em C na disciplina de Algoritmos e Lógica de Programação. Hoje estou buscando cursos para aprimorar meus conhecimentos em dados. Meu github mostra alguns trabalhos na linguagem C, e pretendo adicionar atividades sobre Análise de Dados.
