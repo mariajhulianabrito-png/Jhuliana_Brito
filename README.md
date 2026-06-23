@@ -22,18 +22,11 @@ Estudante de **Engenharia de Software no IDP (Brasília)**, atualmente no 1º se
 - Trabalho em equipe.
 - Liderança.
 
-### Objetivo
+### 📂 Objetivo
 - Desenvolver minhas competências e habilidades em Engenharia de Software, buscando trabalhar na área de Análise de Dados.
   
 ### 📚 Pesquisas Acadêmicas
 - **Criptografia e Segurança:** Estou desenvolvendo um artigo técnico em grupo sobre como as **bijeções matemáticas** garantem a confidencialidade e integridade em sistemas de software. 
-
-### 📂 Meus Principais Repositórios
-- [Lógica em C](link-do-seu-repo): Exercícios e algoritmos desenvolvidos durante a graduação no IDP.
-- [Análise de Dados](link-do-seu-repo): Projetos analíticos e dashboards criados em Excel.
-- [Artigos Acadêmicos](link-do-seu-repo): Documentação e PDFs das minhas pesquisas teóricas.
-
----
 
 ### 🌱 Metas
 - Aprofundar meus conhecimentos em **Estrutura de Dados**.
