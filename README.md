@@ -1,4 +1,4 @@
-# Jhuliana-brito
+# Jhuliana_brito
 Estudante de Engenharia de Software no IDP.
 # Olá, eu sou Maria Jhuliana! 👋
 
