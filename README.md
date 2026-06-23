@@ -35,9 +35,9 @@ Estudante de **Engenharia de Software no IDP (Brasília)**, atualmente no 1º se
 
 ---
 
-### 🌱 Atualmente estou...
-- Aprofundando meus conhecimentos em **Estrutura de Dados**.
-- Explorando a automação de relatórios e a estética de dados.
+### 🌱 Metas
+- Aprofundar meus conhecimentos em **Estrutura de Dados**.
+- Explorar a automação de relatórios e a estética de dados.
 - Buscando minha primeira oportunidade de **estágio** na área de Dados ou Desenvolvimento.
 
 ### 📫 Como me encontrar:
