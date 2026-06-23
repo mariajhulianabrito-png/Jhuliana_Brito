@@ -42,6 +42,6 @@ Estudante de **Engenharia de Software no IDP (Brasília)**, atualmente no 1º se
 
 ### 📫 Como me encontrar:
 - **LinkedIn:** [linkedin.com/in/jhuliana-brito](https://linkedin.com/in/jhuliana-brito)
-- **E-mail:** mariajhuliana.brito@email.com
+- **E-mail:** mariajhuliana.brito@gmail.com
 
 
