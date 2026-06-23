@@ -11,7 +11,7 @@ Estudante de **Engenharia de Software no IDP (Brasília)**, atualmente no 1º se
 - Álgebra Linear.
 - Introdução a Computação.
 
-### 🛠️ Habilidades
+### Habilidades
 - **Linguagens:** C (Foco em lógica e gestão de memória).
 - **Dados:** Microsoft Excel Avançado.
 - **Ambiente de Dev:** Visual Studio Code (VS Code) no MacOS.
@@ -21,6 +21,9 @@ Estudante de **Engenharia de Software no IDP (Brasília)**, atualmente no 1º se
 - Organizada.
 - Trabalho em equipe.
 - Liderança.
+
+### Objetivo
+- Desenvolver minhas competências e habilidades em Engenharia de Software, buscando trabalhar na área de Análise de Dados.
   
 ### 📚 Pesquisas Acadêmicas
 - **Criptografia e Segurança:** Estou desenvolvendo um artigo técnico em grupo sobre como as **bijeções matemáticas** garantem a confidencialidade e integridade em sistemas de software. 
