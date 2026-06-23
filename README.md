@@ -4,14 +4,26 @@ Estudante de Engenharia de Software no IDP.
 
 Estudante de **Engenharia de Software no IDP (Brasília)**, atualmente no 1º semestre.
 
-### 🛠️ Tecnologias e Ferramentas
+### Competências
+- **Cálculo 1.
+- **Lógica Computacional.
+- **Algoritmos e Lógica de Programação.
+- **Álgebra Linear.
+- **Introdução a Computação.
+
+### 🛠️ Habilidades
 - **Linguagens:** C (Foco em lógica e gestão de memória).
 - **Dados:** Microsoft Excel Avançado.
 - **Ambiente de Dev:** Visual Studio Code (VS Code) no MacOS.
 - **Versionamento:** GitHub.
 
+### Atitudes
+- Organizada.
+- Trabalho em equipe.
+- Liderança.
+  
 ### 📚 Pesquisas Acadêmicas
-- **Criptografia e Segurança:** Estou desenvolvendo um artigo técnico em grupo sobre como as **bijeções matemáticas** garantem a confidencialidade e integridade em sistemas de software.
+- **Criptografia e Segurança:** Estou desenvolvendo um artigo técnico em grupo sobre como as **bijeções matemáticas** garantem a confidencialidade e integridade em sistemas de software. 
 
 ### 📂 Meus Principais Repositórios
 - [Lógica em C](link-do-seu-repo): Exercícios e algoritmos desenvolvidos durante a graduação no IDP.
@@ -29,5 +41,4 @@ Estudante de **Engenharia de Software no IDP (Brasília)**, atualmente no 1º se
 - **LinkedIn:** [linkedin.com/in/jhuliana-brito](https://linkedin.com/in/jhuliana-brito)
 - **E-mail:** mariajhuliana.brito@email.com
 
----
-*Perfil atualizado via VS Code no Mac.*
+
