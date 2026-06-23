@@ -5,11 +5,11 @@ Estudante de Engenharia de Software no IDP.
 Estudante de **Engenharia de Software no IDP (Brasília)**, atualmente no 1º semestre.
 
 ### Competências
-- **Cálculo 1.
-- **Lógica Computacional.
-- **Algoritmos e Lógica de Programação.
-- **Álgebra Linear.
-- **Introdução a Computação.
+- Cálculo 1.
+- Lógica Computacional.
+- Algoritmos e Lógica de Programação.
+- Álgebra Linear.
+- Introdução a Computação.
 
 ### 🛠️ Habilidades
 - **Linguagens:** C (Foco em lógica e gestão de memória).
